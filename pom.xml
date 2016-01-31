@@ -6,6 +6,14 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
   <artifactId>basic-project</artifactId>
   <version>1.0-SNAPSHOT</version>
   <description>Basic maven project structure</description>
+   	<dependencies>
+  		<dependency>
+			<groupId>junit</groupId>
+   			<artifactId>junit</artifactId>
+   			<version>4.12</version>
+			<scope>test</scope>
+  		</dependency>
+ 	</dependencies>
    <build>
         <plugins>
             <plugin>
