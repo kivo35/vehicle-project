@@ -3,7 +3,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
   <modelVersion>4.0.0</modelVersion>
   <name>Basic project</name>
   <groupId>com.sqa.kv</groupId>
-  <artifactId>basic-project</artifactId>
+  <artifactId>basic.project</artifactId>
   <version>1.0-SNAPSHOT</version>
   <description>Basic maven project structure</description>
    	<dependencies>
